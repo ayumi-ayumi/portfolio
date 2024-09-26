@@ -45,6 +45,11 @@
         margin-bottom: 1.5rem;
       }
 
+      ul {
+        margin-top: -15px;
+        list-style-type: none;
+      }
+
       &-btns {
         width: 100%;
         display: flex;
@@ -81,4 +86,8 @@
       }
     }
   }
+}
+
+h4 {
+
 }
